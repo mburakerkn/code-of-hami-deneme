@@ -20,3 +20,6 @@ def islem(f1,f2,f3,f4,islem_adi):
         print("Geçersiz işlem.")
 
 islem(toplama,cikarma,carpma,bolme,"toplama")
+
+"""yeni git denemesi"""
+
