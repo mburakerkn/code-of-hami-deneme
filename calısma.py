@@ -4,3 +4,4 @@ print(list(range(5)))
 print("asas")
 
 print("tekrar")
+"""master"""
