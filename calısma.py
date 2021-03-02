@@ -3,3 +3,4 @@ print(list(range(5)))
 """2. ekleem"""
 print("asas")
 
+print("tekrar")
