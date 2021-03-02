@@ -4,4 +4,8 @@ print(list(range(5)))
 print("asas")
 
 print("tekrar")
+<<<<<<< HEAD
 """master"""
+=======
+print("branch")
+>>>>>>> branch_denemesi
