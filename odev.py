@@ -6,6 +6,6 @@ class BankAcc :
     def deposit(self,amount):
         self.__balance += amount
     
-a = BankAcc("anan")
+a = BankAcc("araba")
 a.deposit(100)
 print(a.__balance)
